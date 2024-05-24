@@ -10,9 +10,9 @@
     "test:staging": "NODE_ENV=staging yarn playwright test --project=chromium"
   },
   "dependencies": {
-    "@playwright/test": "1.44.0",
+    "@playwright/test": "1.44.1",
     "@types/dotenv-flow": "3.3.0",
-    "@types/node": "^20.12.12",
+    "@types/node": "20.12.12",
     "dotenv-flow": "3.3.0",
     "typescript": "5.3.2"
   }
