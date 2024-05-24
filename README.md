@@ -1,1 +1,1 @@
-# PlaywrightExtensionBugRepro
+This repository is a minimal reproduction of setup-related bugs in the VS Code Playwright extension.
